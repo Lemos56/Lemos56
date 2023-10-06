@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemos56&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-## Technologies I use on a daily basis
+## Technologies I use on a day to day
 
 <div style="display: inline_block" align = "center"><br>
   <img align="center" alt="Lemos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +19,7 @@
   <img align="center" alt="Lemos-PowerShell" height="30" width="40" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white">
 </div>
 
-## Operating Systems that I use on a daily basis
+## Operating Systems that I use on a day to day
 
 <div style="display: inline_block" align = "center"><br>
 <img align="center" alt="Lemos-Windows" height="30" width="50" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
